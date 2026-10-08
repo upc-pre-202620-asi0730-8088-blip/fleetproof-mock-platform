@@ -1,0 +1,9 @@
+{
+  "name": "fleetproof-mock-platform",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24.20.0" },
+  "scripts": { "start": "node mock-api/server.js", "server": "node mock-api/server.js" },
+  "dependencies": { "json-server": "0.17.4" }
+}
