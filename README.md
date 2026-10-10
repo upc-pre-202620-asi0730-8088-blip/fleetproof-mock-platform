@@ -1,4 +1,4 @@
-# FleetProof Mock Platform
+# FleetProof-mock-platform
 
 Fake RESTful API del curso Aplicaciones Web. Reutiliza el JSON Server del frontend y los datos ficticios de demostracion; no sustituye al backend real.
 
